@@ -1,0 +1,16 @@
+export const colors = {
+  background: '#F8F9FF',
+  primary: '#1B2CC1',
+  accent: '#4F8EF7',
+  success: '#2ECC71',
+  warning: '#F39C12',
+  danger: '#E74C3C',
+  cardBg: '#FFFFFF',
+  textPrimary: '#1A1A2E',
+  textSecondary: '#6B7280',
+  border: '#E5E7EB',
+  wellnessLight: '#EBF3FF',
+  socialLight: '#EAFAF1',
+  financeLight: '#FEF9EE',
+  mealsLight: '#FEF0F0',
+};
